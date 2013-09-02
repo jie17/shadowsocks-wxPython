@@ -1,7 +1,6 @@
-shadowsocks-wxPython
-====================
-
-A shadowsocks client written with wxPython.  
+#shadowsocks-wxPython
+A shadowsocks client using wxPython.  
 Packed by py2exe, run "python setup.py py2exe" to build the executable file.  
-After running, it'll minimize to the system tray.  
-Right click on the tray icon to see the menu.  
+After starting the program, it'll automatically minimize to the system tray.  
+Right click on the tray icon to open the menu.  
+Only tested in Windows platform.
